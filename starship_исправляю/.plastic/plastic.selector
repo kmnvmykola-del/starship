@@ -1,0 +1,4 @@
+repository "starship_исправляю/starship@7972047270047@cloud"
+  path "/"
+    br "/main"
+    co "/main"
